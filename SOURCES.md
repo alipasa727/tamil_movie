@@ -115,6 +115,19 @@
 
 ## このノートでの調べ方
 
+### Arunachalam の追加調査で確認した文法資料
+
+確認日：2026年10月11日。原文の採用元と比較資料は [作品ページ](movies/Arunachalam-1997/movie.md) に記録しています。
+
+| 資料 | 確認箇所・用途 | 照合範囲 |
+| --- | --- | --- |
+| [Tamil Virtual Academy：வினை உருபுகள்](https://www.tamilvu.org/en/node/30418) | §2.2.1・§2.2.2。語幹・時制要素・人称語尾 | 本文で現在形と男性単数の構成を確認。台詞001の書き言葉寄りの形に適用し、口語の短縮は別教材で確認 |
+| [Tamil Virtual Academy：எட்டாம் வேற்றுமை அல்லது விளிவேற்றுமை](https://www.tamilvu.org/en/node/1638) | §6.4。呼格と名詞末尾の変化 | 本文の息子を呼ぶ例を確認。歌詞003の複合名詞への適用はノートの分析 |
+| [Tamil Virtual Academy：வினையியல் மாற்றங்கள்](https://www.tamilvu.org/courses/degree/a051/a0513/html/a051343.htm) | §4.3.2。否定命令の型 | 本文で型を確認。歴史的文語の教材なので、現代の語尾は補助教材も使用 |
+| [Learn Tamil／Elango Cheran](https://www.learntamil.com/) | [現在形](https://www.learntamil.com/part1/ch01/verbs-present-tense/)、[過去形](https://www.learntamil.com/part2/ch06/verbs-past-tense/)、[否定命令](https://www.learntamil.com/part1/ch04/negative-commands/)、[接辞との接合](https://www.learntamil.com/part1/ch02/adding-suffixes-compound-subjects/) | 個人の補助教材。各節の本文を確認し、教育機関の教材・辞書と合わせて使う。掲載されている練習問題はノートへ追加しない |
+
+既掲の Schmura 論文は §2.1（名詞述語文）に加え、§2.2（強調の粒子、冊子 pp.132–133）も本文で確認しました。個別の映画の発音・場面を確認する資料とは区別します。
+
 1. 作品名・曲名・原語を確認し、吹替版や別言語版との取り違えを避ける。
 2. 本編・公式動画・字幕・公式歌詞に加え、名台詞サイト、作品別・俳優別の台詞集、映画記事、歌詞サイトを原典候補として記録する。
 3. 個別ページの本文で作品名と原文を確認し、採用した掲載文を出典付きで記録する。可能なら別資料と音声で照合し、字幕・聞き取り・掲載文の違いを注記する。異なる掲載文をつなぎ合わせて原文を作らない。
