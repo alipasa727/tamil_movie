@@ -14,6 +14,7 @@
 | [Behindwoods：台詞を引用する記事の例](https://www.behindwoods.com/tamil-movies-cinema-column/rajinis-role-in-tn-elections-2016.html) | 有名な台詞の候補と、作品への帰属を調べる | 記事本文に作品名とタミル文字の台詞があることを確認。記事は本編の字幕や台本ではなく、全台詞を検索できる資料でもない。正確な発音や場面・時刻は本編で確認する |
 | [Tamil Virtual Academy：辞書一覧](https://www.tamilvu.org/en/dictionaries) | 単語の意味を調べるために、辞書を選ぶ | Madras University Tamil Lexicon、英タミル辞書、タミル語同士の辞書などへのリンクを確認。辞書の意味だけで、映画の口語表現や場面の訳を確定しない |
 | [University of Madras Tamil Lexicon／シカゴ大学公開版](https://dsal.uchicago.edu/dictionaries/tamil-lex/) | 語幹・見出し語の意味を調べ、日本語訳の根拠を確認する | 語の検索画面と原辞書の書誌情報を確認。原辞書は1924〜1936年刊なので、現代の口語・英語由来の語が十分に載っているとは限らない |
+| [Agarathi](https://agarathi.com/) | 複数の辞書の見出し語・語義・活用形を比較する | 今回は University of Madras Lexicon、Fabricius、Winslow、McAlpin の掲載項目を使用。引用する際は掲載サイトと原辞書名を併記する。利用者が追加する定義とは区別し、大学の公式サイトとして紹介しない |
 
 ここでの「確認」は、ウェブページ本文または検索結果・投稿情報を確認したという意味です。映像・音源を再生して個々の台詞や歌詞を照合したという意味ではありません。また、別サイトで同じ表記が見つかっても、互いに転記している可能性があるため、それだけで本編確認済みとはしません。
 
@@ -26,10 +27,15 @@
 | [Tamil Virtual Academy：Categories of இடைச்சொல் - Part I](https://www.tamilvu.org/en/node/1851) | 格の接辞、動詞の語尾、時制を示す部分、人称・数・性、語をつなぐ要素 | 教材の紹介本文を確認。格の接辞と、動詞の語幹・時制を示す部分・語尾を区別する説明がある。個々の映画の口語形に適用する際は、口語資料でも確認する |
 | [ペンシルベニア大学：A Grammar of Spoken Tamil／Harold F. Schiffman](https://ccat.sas.upenn.edu/plc/tamilweb/book.html) | 口語の名詞・動詞・代名詞・形容詞・構文。与格構文の確認候補は [Dative Subjects](https://ccat.sas.upenn.edu/plc/tamilweb/book/chapter3/node39.html) | 検索結果で目次と与格構文の説明を確認。今回の本文取得はタイムアウト。本文の全体確認と、ノートごとの照合は未実施。旧フォントの案内があり、表記の読み取りにも注意する |
 | [A Reference Grammar of Spoken Tamil：大学による書籍紹介](https://www.southasia.upenn.edu/books/reference-grammar-spoken-tamil) | 標準的な話し言葉を扱う文法書としての参照候補。映画の口語形を調べる際に使う | 大学の紹介本文で著者・出版社・標準口語を扱う旨を確認。このページは書籍の全文ではなく、書籍本文は未確認。オンライン版とは版・節を区別して引用する |
+| [Tamil Virtual Academy：பெயரெச்சம் காலம் காட்டுதல்](https://www.tamilvu.org/ta/courses-degree-a021-a0212-html-a0212607-6357) | 連体形の構成、現在の時制要素 | §6.4・§6.4.2 の本文で、語幹・時制要素・連体語尾の区別を確認。書き言葉の形を含むため、映画の発音とは別に扱う |
+| [Tamil Virtual Academy掲載『தமிழ் மொழி வரலாறு』p.62](https://www.tamilvu.org/slet/l3B00/l3B00pd1.jsp?bookid=214&pno=62) | 連体形の語尾 -அ | 該当ページの本文で語尾の説明を確認。歴史的な用例を扱うページなので、現在形の分析には上記教材を合わせて参照する |
+| [Tamil Virtual Academy：வல்லினம் மிகும் இடங்கள்](https://www.tamilvu.org/en/node/8057) | 修飾語と名詞の結合時の子音の重なり | §6.1.6(i) と §6.1.7 の本文を確認。表面の子音の結合と、名詞からの派生過程の分析を区別する |
+| [Suganya Rajendran Schmura：A Preliminary Description of vanthu in Spoken Tamil（2024）](https://ojs.ub.uni-konstanz.de/jsal/index.php/fasal/en/article/view/314) | 現在の名詞述語文と連結動詞 | 掲載 [PDF](https://ojs.ub.uni-konstanz.de/jsal/index.php/fasal/en/article/download/314/185) §2.1、冊子 p.131（PDF3ページ目）を確認。一般的な文の規則を原文に適用する際は、曲自体を論文が分析したとは書かない |
+| [akprasad：Tamil grammar](https://akprasad.github.io/tamil/grammar/) | 与格構文・否定形、代名詞、連体形、疑問の -ā を見渡す補助教材 | 「Case」「-kku Verbs」「Pronouns」「Verbal adjectives」「Other suffixes」の本文を確認。個人の学習教材であり、大学教材とは区別する。文語と口語の対照を含むが、簡潔な説明をあらゆる方言に一般化しない |
 
 口語の台詞は口語文法を、書き言葉・詩的な形はそれに対応する教材を選びます。資料の説明と映画の用例を照合し、文法資料に書かれた規則と、場面から読み取るニュアンスを分けて記録します。
 
-現在の学習ノートにある文法解説は、上記資料によるノート単位の照合が未実施です。今回の調査は参照先の確認であり、既存解説の正確さを検証し終えたという意味ではありません。
+[既存の作品ノート](movies/Muthu-1995/movie.md) は原文を再確認して書き直し、各解説に資料の参照箇所と当てはめを記録しました。歌詞の連体形・子音の結合・名詞述語文は教育機関の教材または研究論文の本文で照合しています。台詞の与格構文は補助教材の本文でも確認し、疑問語と否定の組み合わせは [Schiffman の該当節](https://ccat.sas.upenn.edu/plc/tamilweb/book/chapter6/node36.html) の検索保存本文で確認しました。大学ページの直接取得はタイムアウトしており、全体を直接読めたとは扱いません。本編の音声・字幕との照合は引き続き未実施です。
 
 ## このノートでの調べ方
 
