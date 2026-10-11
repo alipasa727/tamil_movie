@@ -77,3 +77,4 @@
 ### 作品一覧
 
 - [Muthu（1995）](movies/Muthu-1995/movie.md)
+- [Padayappa（1999）](movies/Padayappa-1999/movie.md)

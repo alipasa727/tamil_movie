@@ -94,6 +94,25 @@
 
 [既存の作品ノート](movies/Muthu-1995/movie.md) は原文を再確認して書き直し、各解説に資料の参照箇所と当てはめを記録しました。歌詞の連体形・子音の結合・名詞述語文は教育機関の教材または研究論文の本文で照合しています。台詞の与格構文は補助教材の本文でも確認し、疑問語と否定の組み合わせは [Schiffman の該当節](https://ccat.sas.upenn.edu/plc/tamilweb/book/chapter6/node36.html) の検索保存本文で確認しました。大学ページの直接取得はタイムアウトしており、全体を直接読めたとは扱いません。本編の音声・字幕との照合は引き続き未実施です。
 
+## Padayappaで追加確認した資料
+
+確認日：2026年10月11日。[Padayappaの作品ページ](movies/Padayappa-1999/movie.md) にセリフ3件と歌詞5件を追加しました。以下は今回の本文確認・検索保存本文確認を区別した記録です。
+
+| 資料 | 今回の用途・確認範囲 |
+| --- | --- |
+| [Dinamalar：24 Years of Padayappa](https://lr-cinema.dinamalar.com/tamil-news/112456/cinema/Kollywood/24-Years-of-Padayappa.htm) | 作品名付きで決め台詞を列挙する段落を本文で確認。強調の語尾を含むセリフの抜粋に使用。場面・時刻・本編音声は未確認 |
+| [Dinamani：2026年2月10日の記事](https://www.dinamani.com/tamilnadu/2026/Feb/10/chief-minister-stalin-quoted-rajinikanths-line-to-the-students) | 作品名と台詞の再引用を本文で確認。映画内の状況と記事中のスピーチを区別する |
+| [TamilPaa：Padayappaの歌詞一覧](https://www.tamilpaa.com/padayappa-songs-lyrics) | 5曲の個別ページ本文で原文・曲名・作品を確認。非公式掲載であり、公式歌詞・音源との照合は未実施。各URLと抜粋位置は歌詞ノートに記録 |
+| [Lyrical Delights：励ましの曲の歌詞・英訳](https://www.lyricaldelights.com/2012/03/17/padayappa-vetri-kodi-kattu/) | 本文のタミル文字と曲・作品情報を確認。短い命令の抜粋に使用。非公式の翻訳ブログで、既存英訳と学習用の日本語訳は区別 |
+| [Tamil Virtual Academy：第3格](https://www.tamilvu.org/en/node/23013) | §5.4の本文で格語尾の一覧と道具・手段の意味を確認。歌詞003の格語尾に適用。タミル語URLの取得は失敗し、同教材の上記URLで本文を確認 |
+| [Tamil Virtual Academy：格語尾](https://www.tamilvu.org/ta/courses-degree-c021-c0214-html-c0214441-16269) | §4.1の呼びかけの格の説明を本文で確認。歌詞004に適用。歴史文法の教材として区別 |
+| [Tamil Virtual Academy：動詞](https://www.tamilvu.org/ta/courses-degree-a051-a0512-html-a0512314-9640) | §3.4.4の語幹による単数の命令、§3.4.5の目的を表す型を本文で確認。歴史文法の一般則と、現代歌詞への当てはめは区別 |
+| Schiffman：[Negative -aame, aama(l)](https://ccat.sas.upenn.edu/plc/tamilweb/book/chapter6/node27.html)／[Future Negative](https://ccat.sas.upenn.edu/plc/tamilweb/book/chapter6/node11.html) | 検索保存本文で否定の副詞的な形と中性主語の否定語尾を確認。前者の直接本文取得は失敗。セリフ002に確認方法を明記 |
+| [Schmura（2024）論文PDF](https://ojs.ub.uni-konstanz.de/jsal/index.php/fasal/en/article/download/314/185) | §2.1の名詞述語に加え、§2.2の強調・焦点化も本文確認。セリフ003で使用。論文自体は映画の台詞を分析していない |
+| [ペンシルベニア大学公開の口語辞書](https://ccat.sas.upenn.edu/plc/tamilweb/dictionary/diction.html) | 「achieve」の検索保存用例で、口語の所有表現と英訳の対応を確認。セリフ003の補助根拠。直接本文取得は失敗し、辞書全体の直接確認とは扱わない |
+
+語義はAgarathi掲載の原辞書名を各ノートに記録しました。辞書の名詞・動詞や同綴りの別項目を区別しています。原文の本文確認ができても、文法の詳細や本編の場面まで確認できたことにはしません。
+
 ## このノートでの調べ方
 
 1. 作品名・曲名・原語を確認し、吹替版や別言語版との取り違えを避ける。
