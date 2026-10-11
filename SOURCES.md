@@ -18,6 +18,19 @@
 
 ここでの「確認」は、ウェブページ本文または検索結果・投稿情報を確認したという意味です。映像・音源を再生して個々の台詞や歌詞を照合したという意味ではありません。また、別サイトで同じ表記が見つかっても、互いに転記している可能性があるため、それだけで本編確認済みとはしません。
 
+## 名台詞・映画の台詞を探すサイト
+
+確認日：2026年10月11日。タミル語でも、専用の台詞集や俳優別の名台詞記事があります。歌詞サイトとは分け、作品中の台詞であることを確認できるページから候補を選びます。
+
+| サイト・掲載例 | 探し方と今回の確認 | 原文の確認に使う際の注意 |
+| --- | --- | --- |
+| [Tamil Dialogue Lyrics](https://www.tamildialoguelyrics.in/)／[Muthuの台詞ページ](https://www.tamildialoguelyrics.in/2021/10/muthu-movie-dialogue-lyrics-in-tamil.html) | 台詞集の専用サイト。トップページ本文で作品・俳優・Comedy・Love・Motivationalなどの分類を確認。Muthu、Vada Chennai、Aadukalamなどの作品別ページを検索で確認 | Muthuの本文取得はエラーで失敗し、引用内容は未確認。サイトには映画以外のQuotesやKavithaiもあるので、それらを映画の原文と混同しない。台詞を確定する前に個別ページの本文を取得する |
+| [ABP Live Tamil：ラジニカーントの名台詞集](https://tamil.abplive.com/web-stories/rajinikanth-famous-punch-dialogues-in-tamil-rajini-birthday-special-90078) | 本文を取得。映画名とタミル文字の台詞を対にして掲載し、Muthu、Baasha、Padayappaなどを確認。Muthuの既存の短い抜粋に対応する文字列も確認 | 原文の候補探し・記事間の表記比較に使える。公式台本や本編字幕ではなく、時刻の記載もない |
+| [Tamil Filmibeat：Rajini's best punch lines](https://tamil.filmibeat.com/specials/rajini-s-best-punch-lines-189426.html) | Shankarによる2013年12月12日の記事本文を取得。作品名・タミル文字の名台詞・説明を確認。Muthuの決め台詞も掲載 | 同じ台詞でも短縮や省略がある。Muthuの箇所は他資料の「誰にも」に相当する部分を省略しており、引用をつなぎ合わせて原文を作らない |
+| [Rajinifans：Most Popular Superstar Rajinikanth Punch Dialogues](https://rajinifans.com/detailview.php?title=1774) | 本文を取得。映画別見出しと説明を確認し、Muthuの項目もある | 台詞そのものは画像中心で、今回の本文抽出ではMuthuの文字を読めなかった。文字の原文ソースとしては未確認。作品への帰属も別資料で照合する |
+
+検索には映画名・俳優名に加え、**வசனங்கள்（台詞）**、**பஞ்ச் வசனங்கள்（決め台詞）**、英語の **punch dialogues** が使えます。まず候補の作品名と掲載文を記録し、比較資料・本編・文法資料を足していきます。今回、本文まで確認できた台詞資料として使えるのは上記の ABP Live と Filmibeat です。
+
 ## YouTube以外の追加候補
 
 確認日：2026年10月11日。**現在こちらで原文を文字として取得できた追加資料は Rajinifans と Tamilputhumai です。本編の確認には、原語音声を収録した正規配信・DVD／Blu-ray を優先します。** 配信ページや商品仕様の確認と、実際の再生・聞き取りは分けて記録します。
