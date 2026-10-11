@@ -18,6 +18,33 @@
 
 ここでの「確認」は、ウェブページ本文または検索結果・投稿情報を確認したという意味です。映像・音源を再生して個々の台詞や歌詞を照合したという意味ではありません。また、別サイトで同じ表記が見つかっても、互いに転記している可能性があるため、それだけで本編確認済みとはしません。
 
+## YouTubeの利用検証
+
+検証日：2026年10月11日。**今回の環境では、動画の候補探しと投稿情報の確認に使えました。音声・字幕による原文照合までは実行できませんでした。** これは今回の取得手段についての結果であり、動画自体が視聴不能、字幕が存在しない、という判定ではありません。
+
+### 実際に試した候補
+
+| 動画 | 検索経由で取得できた投稿情報 | 採用判断 |
+| --- | --- | --- |
+| [Oruvan Oruvan Mudhalali／SPE Music India](https://www.youtube.com/watch?v=9urVuXbk9ig) | 前回の検索で Muthu、言語 Tamil、歌唱 S. P. Balasubrahmanyam、作詞 Vairamuthu、Studio Plus Entertainment の権利表示を取得。2026年5月29日公開のリマスター版。今回の直接ページ取得は失敗 | 歌詞001の音声照合候補。今回得た第三者サイトの転載は独立した裏付けに数えない。権利表示も投稿者による記載で、独立した権利確認済みとはしない |
+| [Thillana／A. R. Rahman の Official Artist Channel](https://www.youtube.com/watch?v=mHBqb_MhjTA) | Provided to YouTube by Pyramid Audio、Muthu のサウンドトラック、歌唱 Mano・Sujatha Mohan、作詞 Vairamuthu。2024年8月8日公開 | [掲載歌詞](https://www.tamil2lyrics.com/lyrics/thillaana-thillaana-song-lyrics/) の歌手・作詞者と一致。歌詞002の照合候補として優先するが、言語・実際の歌唱内容は未照合 |
+| [Kokku Saiva Kokku／Sun Music](https://www.youtube.com/watch?v=XQURTqjxShI) | 投稿元 Sun Music、作品 Muthu、曲名と歌手の記載。2024年4月17日公開 | 歌詞003の映像・音声照合候補 |
+| [Kokku Saiva Kokku／Official Artist Channel](https://www.youtube.com/watch?v=05J75kz_m1s) | Provided to YouTube by Pyramid Audio、Muthu のサウンドトラック、作詞 Vairamuthu、歌唱 S. P. Balasubrahmanyam・Theni Kunjaramma。2024年8月8日公開 | 歌詞003の別の配信候補。Sun Music 版と同じ録音かは未確認 |
+
+公式アーティストチャンネルでも曲名だけで版を選べません。[別の Thillana Thillana 配信](https://www.youtube.com/watch?v=XGOAOCqWHn8) は、Muthu のサウンドトラックという表示がある一方、歌手・作詞者のクレジットが上記と異なりました。別言語・別録音などの可能性を考慮し、今回は採用を保留します。音声を確認していないため、その違いの理由は断定しません。
+
+### 取得と照合の結果
+
+| 試したこと | 結果 | 分かる範囲 |
+| --- | --- | --- |
+| 動画の検索と投稿情報の取得 | 上記の候補・説明欄の情報を取得 | 作品名・曲名・クレジットによる候補選定ができる。説明欄は歌詞の文字起こしではない |
+| 検索ツールから視聴ページを開く | 取得制限または取得エラー | ページ本文・プレーヤーは確認できなかった |
+| Oruvan 動画の字幕一覧エンドポイントを取得 | 取得制限で失敗 | 字幕の有無・言語・手動／自動の区別は未判定。この取得方法の失敗だけで「字幕なし」とはしない |
+| 実行環境から視聴ページにアクセス | Operation not permitted。環境のネットワーク許可先にも YouTube は含まれていない | 現在の実行環境では直接取得できなかった |
+| 字幕本文・文字起こし・音声の照合 | 実行できず | 原文の一致、発音、該当時刻は未確認。既存ノートを「音声確認済み」に更新していない |
+
+今後音声・字幕を確認できた場合は、動画URL、投稿元、版、該当時刻、字幕の言語と種類、実際に照合した語を残します。自動字幕と自動翻訳は分けて記録し、原文の確定には音声や掲載原文との比較を行います。[YouTube公式ヘルプ](https://support.google.com/youtube/answer/6373554?hl=ja) も、自動字幕に方言・雑音などによる誤りが生じることを説明しています。
+
 ## 文法事項の確認先
 
 文法解説では、語義を調べる辞書に加え、格・活用・構文の説明を確認できる資料を参照します。
@@ -25,7 +52,7 @@
 | 資料 | 確認する文法事項 | 今回の確認状況 |
 | --- | --- | --- |
 | [Tamil Virtual Academy：Categories of இடைச்சொல் - Part I](https://www.tamilvu.org/en/node/1851) | 格の接辞、動詞の語尾、時制を示す部分、人称・数・性、語をつなぐ要素 | 教材の紹介本文を確認。格の接辞と、動詞の語幹・時制を示す部分・語尾を区別する説明がある。個々の映画の口語形に適用する際は、口語資料でも確認する |
-| [ペンシルベニア大学：A Grammar of Spoken Tamil／Harold F. Schiffman](https://ccat.sas.upenn.edu/plc/tamilweb/book.html) | 口語の名詞・動詞・代名詞・形容詞・構文。与格構文の確認候補は [Dative Subjects](https://ccat.sas.upenn.edu/plc/tamilweb/book/chapter3/node39.html) | 検索結果で目次と与格構文の説明を確認。今回の本文取得はタイムアウト。本文の全体確認と、ノートごとの照合は未実施。旧フォントの案内があり、表記の読み取りにも注意する |
+| [ペンシルベニア大学：A Grammar of Spoken Tamil／Harold F. Schiffman](https://ccat.sas.upenn.edu/plc/tamilweb/book.html) | 口語の名詞・動詞・代名詞・形容詞・構文。[Dative Subjects](https://ccat.sas.upenn.edu/plc/tamilweb/book/chapter3/node39.html)、[WH-interrogatives + um + NEGATIVE](https://ccat.sas.upenn.edu/plc/tamilweb/book/chapter6/node36.html) | 検索保存本文の英語説明・ローマ字表記を台詞ノートと照合。直接取得はタイムアウトし、全体の直接確認は未実施。旧タミル文字は表示が崩れるため、原文の表記確認には使わない |
 | [A Reference Grammar of Spoken Tamil：大学による書籍紹介](https://www.southasia.upenn.edu/books/reference-grammar-spoken-tamil) | 標準的な話し言葉を扱う文法書としての参照候補。映画の口語形を調べる際に使う | 大学の紹介本文で著者・出版社・標準口語を扱う旨を確認。このページは書籍の全文ではなく、書籍本文は未確認。オンライン版とは版・節を区別して引用する |
 | [Tamil Virtual Academy：பெயரெச்சம் காலம் காட்டுதல்](https://www.tamilvu.org/ta/courses-degree-a021-a0212-html-a0212607-6357) | 連体形の構成、現在の時制要素 | §6.4・§6.4.2 の本文で、語幹・時制要素・連体語尾の区別を確認。書き言葉の形を含むため、映画の発音とは別に扱う |
 | [Tamil Virtual Academy掲載『தமிழ் மொழி வரலாறு』p.62](https://www.tamilvu.org/slet/l3B00/l3B00pd1.jsp?bookid=214&pno=62) | 連体形の語尾 -அ | 該当ページの本文で語尾の説明を確認。歴史的な用例を扱うページなので、現在形の分析には上記教材を合わせて参照する |
