@@ -153,3 +153,13 @@
 2026年10月11日までの別言語版への引き継ぎ記録では、テルグ語固有の掲載サイト・辞書・文法資料は未調査でした。このタミル語リポジトリの調査結果を、テルグ語版の確認済み資料として転記しません。対象言語でのページ本文の取得、本編・音声・字幕の照合、文法の照合をそれぞれ新たに記録します。
 
 2026年10月12日、独立した引き継ぎ文書を整理し、作業ルールは [AGENTS.md](AGENTS.md)、編集方針・別言語版で調べ直す項目は [README.md](README.md#別言語版への適用)、調査の経緯と確認記録は本ファイルにまとめました。この整理に伴う原文資料の再調査・本編照合は行っていません。
+
+## ユーザー指定のPadayappa台詞ページによる追記
+
+確認日：2026年10月12日。[指定URL（モバイル表示）](https://www.tamildialoguelyrics.in/2021/08/padayappa-movie-dialogue-lyrics-tamil.html?m=1) の直接取得は失敗しましたが、[同じ記事の通常表示](https://www.tamildialoguelyrics.in/2021/08/padayappa-movie-dialogue-lyrics-tamil.html) は本文を取得できました。検索結果だけではなく「Padayappa Dialogue Lyrics in Tamil」の掲載原文と作品名を確認しました。
+
+[統合台詞ファイル](movies/Padayappa-1999/dialogue/dialogue.md#dialogue-004) に、質問、年齢の譲歩、愛を忘れないよう促す言葉、親子についての否定、急ぐことの禁止の短い抜粋5件を追加しました。既存の3件は別資料の引用を保持し、指定ページの句読点・動詞・綴りとの差を追記しています。ページ全体の転載ではありません。
+
+文法は辞書の語義と補助教材本文を照合しました。Schiffmanの [譲歩の説明](https://ccat.sas.upenn.edu/plc/tamilweb/book/chapter6/node44.html)、[モダリティ項目5](https://ccat.sas.upenn.edu/~haroldfs/dravling/modals/tammodals.html)、[相の説明](https://ccat.sas.upenn.edu/~haroldfs/dravling/aspect/tamaspect.html) は検索保存本文で規則を確認し、直接取得の失敗を各項目に記録しました。大学資料の検索保存本文と、[個人の補助教材](https://akprasad.github.io/tamil/grammar/) の直接本文確認を区別しています。
+
+掲載ページには個々の話者・相手・場面・時刻の記載がないため、本編の情報として補っていません。口語の途中の短縮や綴りの揺れは、一般的な文法の型を確認しただけで一文字ずつ対応を確定したとは扱いません。
