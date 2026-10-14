@@ -14,6 +14,7 @@
 | 掲載資料 | [Behindwoods：Rajini's role in TN Elections 2016](https://www.behindwoods.com/tamil-movies-cinema-column/rajinis-role-in-tn-elections-2016.html)／D Meera Chithirappaavai |
 | 参照箇所 | 記事冒頭。タミル文字の決め台詞を引用し、1995年の Muthu の台詞と明記する段落 |
 | 確認方法・日 | 掲載本文の作品への帰属と表記を確認。2026年10月11日 |
+| 追加の比較資料 | [Tamil Dialogue Lyrics：Muthu](https://www.tamildialoguelyrics.in/2021/10/muthu-movie-dialogue-lyrics-in-tamil.html)「Muthu Movie Mass Dialogues」。検索保存本文で既存の抜粋と同じ表記を確認。直接アクセスは失敗しており、現在のページ本文を直接確認したとは扱わない |
 | 未照合 | 本編の音声・字幕、相手、場面、時刻 |
 
 ### 1. 原文
