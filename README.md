@@ -83,18 +83,17 @@
 
 ## ノートの整理と更新
 
-作品ごとに `movie.md` を目次とし、台詞は `dialogues/dialogue.md` にまとめます。台詞の追加は同じファイルに追記し、`dialogue-001` 形式のアンカーを使います。歌詞は曲ごとに1ファイルとし、同じ曲の抜粋はそのファイルに追記します。
+映画ごとにフォルダを作り、台詞は `dialogues/dialogue.md` にまとめます。台詞の追加は同じファイルに追記し、`dialogue-001` 形式のアンカーを使います。歌詞は曲ごとに1ファイルとし、同じ曲の抜粋はそのファイルに追記します。`movie.md` は作成しません。作品一覧から各映画フォルダを開けます。
 
 ```text
 movies/<映画名>-<公開年>/
-├── movie.md
 ├── dialogues/
 │   └── dialogue.md
 └── songs/
     └── Song-Title.md
 ```
 
-新規作成には [作品ひな形](movies/_template/movie.md)、[台詞ひな形](movies/_template/dialogues/dialogue.md)、[歌詞ひな形](movies/_template/songs/Song-Title.md) を使います。新しい歌詞ファイルは曲名（英字の空白はハイフン）、先頭見出しも曲名だけにします。既存の番号付き歌詞ファイルは利用を続けます。
+新規作成には [台詞ひな形](movies/_template/dialogues/dialogue.md)、[歌詞ひな形](movies/_template/songs/Song-Title.md) を使います。新しい歌詞ファイルは曲名（英字の空白はハイフン）、先頭見出しも曲名だけにします。既存の番号付き歌詞ファイルは利用を続けます。
 
 既存教材の原文・訳・解説・確認記録は保持します。従来形式の教材は対象箇所を改訂するときに5区分へ整え、別訳や根拠を形式統一だけのために削除しません。新たな資料で誤りが分かれば、根拠を示して更新します。復習問題・練習・学習進捗の記録は設けません。
 
@@ -102,4 +101,4 @@ movies/<映画名>-<公開年>/
 
 ## 作品一覧
 
-- [Muthu（1995）](movies/Muthu-1995/movie.md)
+- [Muthu（1995）](movies/Muthu-1995/)
