@@ -239,7 +239,7 @@
 
 **語義の根拠：** Agarathi掲載の [Fabricius／McAlpin：認識の動詞](https://agarathi.com/word/தெரி)。知る・分かるという動詞項目を参照。
 
-**文法の根拠・照合：** [Tamil grammar](https://akprasad.github.io/tamil/grammar/)「-kku Verbs」「Other suffixes」の本文で、与格を伴う認識の動詞と疑問の -ā を照合しました。個人教材による補助確認です。大学の与格構文の根拠は既存の [Muthuの台詞ノート](../../Muthu-1995/dialogue/dialogue.md#dialogue-001) も参照できます。
+**文法の根拠・照合：** [Tamil grammar](https://akprasad.github.io/tamil/grammar/)「-kku Verbs」「Other suffixes」の本文で、与格を伴う認識の動詞と疑問の -ā を照合しました。個人教材による補助確認です。大学の与格構文の根拠は既存の [Muthuの台詞ノート](../../Muthu-1995/dialogues/dialogue.md#dialogue-001) も参照できます。
 
 ### 4. 未確認事項
 
