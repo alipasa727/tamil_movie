@@ -102,6 +102,7 @@ movies/<映画名>-<公開年>/
 ## 作品一覧
 
 - [Muthu（1995）](movies/Muthu-1995/)
+- [baasha（1995）](movies/baasha-1995/)
 - [Arunachalam（1997）](movies/Arunachalam-1997/)
 - [Padayappa（1999）](movies/Padayappa-1999/)
 - [Mersal（2017）](movies/Mersal-2017/)

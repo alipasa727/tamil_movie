@@ -22,6 +22,7 @@
 | 資料 | 用途と注意 |
 | --- | --- |
 | [Harold F. Schiffman：A Grammar of Spoken Tamil（大学公開オンライン版）](https://ccat.sas.upenn.edu/plc/tamilweb/book.html) | 口語の格・代名詞・動詞・構文。旧文字コードと取得制限に注意。既存記録の検索保存本文での確認を、直接本文の確認に置き換えない |
+| [E. Annamalai：Chicago Tamil Course／Grammar Aid（シカゴ大学）](https://tamilcourse.uchicago.edu/node/112) | 口語と書き言葉の対照。2026年10月17日、[Simple Verb forms](https://tamilcourse.uchicago.edu/node/112) の否定命令、[Spelling Correspondence](https://tamilcourse.uchicago.edu/node/122) M22・M26 の連体形・条件形をウェブ取得本文で確認。baasha の[台詞ノート](movies/baasha-1995/dialogues/dialogue.md#dialogue-001)に適用範囲を記録 |
 | [A Reference Grammar of Spoken Tamil（大学による書籍紹介）](https://www.southasia.upenn.edu/books/reference-grammar-spoken-tamil) | 口語文法書の書誌案内。紹介ページの確認と書籍本文の確認、オンライン版の節を区別する |
 | [Tamil Virtual Academy：Categories of இடைச்சொல் - Part I](https://www.tamilvu.org/en/node/1851) | 格の接辞、語幹・時制要素・人称語尾。口語への適用は口語資料と合わせる |
 | [Tamil Virtual Academy：பெயரெச்சம் காலம் காட்டுதல்](https://www.tamilvu.org/ta/courses-degree-a021-a0212-html-a0212607-6357) | 連体形（名詞を説明する形）の構成。書き言葉の規則と映画の発音を区別する |
