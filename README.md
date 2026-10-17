@@ -106,4 +106,5 @@ movies/<映画名>-<公開年>/
 - [Arunachalam（1997）](movies/Arunachalam-1997/)
 - [Padayappa（1999）](movies/Padayappa-1999/)
 - [Mersal（2017）](movies/Mersal-2017/)
+- [petta（2019）](movies/petta-2019/)
 - [Darbar（2020）](movies/Darbar-2020/)
