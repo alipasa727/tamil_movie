@@ -548,5 +548,3 @@
 | 同資料、Other verb forms／Verbal adjectives／Verbal nouns／Other suffixes | 条件の口語形、名詞を説明する動詞形、人を表す形、強調・呼びかけ等の一般則を本文確認。§2・§5・§7〜§9等に適用。リズム語や説明できない口語形の一文字ずつの分解は確定していない |
 
 </details>
-
-[作品一覧](../../../README.md#作品一覧)
