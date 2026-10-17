@@ -6,24 +6,20 @@
 
 ### 本文
 
-> அண்ணாமலை ஆண்டவன் சொல்றான் அருணாச்சலம் முடிக்கிறான் விடுகதையா
+> ஆண்டவன் சொல்றான் அருணாச்சலம் முடிக்கிறான்
 
 ### 直訳
 
-中心の二文：**神が言う。アルナーチャラムがやり遂げる。**
-
-前後の語：**அண்ணாமலை** は固有名詞「アンナーマライ」、**விடுகதையா** は「なぞなぞなのか？」。この二つが中心の二文にどうつながるかは、提供文だけでは確定できない。
+**神が言う。アルナーチャラムがやり遂げる。**
 
 ### 語彙説明
 
 | 本文の形 | 辞書形 | 品詞 | 意味 | 活用・語尾の働き |
 | --- | --- | --- | --- | --- |
-| அண்ணாமலை | அண்ணாமலை（固有名詞） | 固有名詞 | アンナーマライ | 人名・地名などに使われる名。ここでの指示対象と後続語との関係は未確認 |
 | ஆண்டவன் | ஆண்டவன் | 名詞 | 神、主 | 「言う」主体。ここでは辞書の God／Lord の語義を採用 |
 | சொல்றான் | சொல்／சொல்லு | 動詞 | 言う、告げる | 口語の現在形。சொல்லுறான் と சொல்றான் の対応を大学教材で確認。ஆன் は三人称・男性・単数 |
 | அருணாச்சலம் | அருணாச்சலம்（固有名詞） | 人名 | アルナーチャラム | 「やり遂げる」主体 |
 | முடிக்கிறான் | முடி（他動詞） | 動詞 | 終わらせる、仕上げる、やり遂げる | முடி + 現在を示す க்கிற் + 三人称・男性・単数の ஆன்。名詞の「髪・冠」や、可能を表す முடியும் とは区別 |
-| விடுகதையா | விடுகதை | 名詞＋疑問の接辞 | なぞなぞなのか？ | விடுகதை + ஆ。母音の間に ய் が入る。「なぞなぞ」という名詞を疑問にする |
 
 ### 文法説明
 
@@ -33,37 +29,28 @@
 
 **முடிக்கிறான் は「やり遂げる」という動詞そのものに、現在形の語尾が付いた形。** この文が過去・完了の時制だから「やり遂げた」と訳すのではない。決め台詞として「神の言うことを俺が実現する」という構えを表す読みは文脈による。
 
-**விடுகதையா は名詞を使った疑問。** 「それは」に当たる主語を日本語で補えば「それはなぞなぞなのか？」となるが、「それ」が何を指すかは前後のやり取りが必要。
-
 ### 補足
 
 決め台詞らしい日本語に言い換えるなら、**「神が命じ、俺がやり遂げる。」**。「命じる」は சொல் の文脈に合う訳語、「俺」はアルナーチャラムが自分を指す場合の言い換えであり、本文に「私」という代名詞があるわけではない。
 
-**ローマ字表記について：意味の方向は近いが、提示されたタミル語の転写としては一致しない。** ユーザー提示の `Andavan solran. Arunachalam seiran` は NDTV／IANS の記事にも掲載されている。一方、タミル語の記事には **முடிக்கிறான்** という形もあるため、ローマ字に合わせて本文の動詞を書き換えない。
+ローマ字の読みの補助：**Aandavan solraan. Arunachalam mudikkiraan.**
 
-| 比較する箇所 | 対応と意味 |
-| --- | --- |
-| `Andavan solran` | ஆண்டவன் சொல்றான் におおむね対応。「神が言う」 |
-| `Arunachalam seiran` | `seiran` は செய்「する」に基づく செய்றான் などに対応する読み。「アルナーチャラムがする」。முடிக்கிறான்「やり遂げる」とは別の動詞 |
-| 提供されたタミル語の中心部分 | 読みの補助なら `Aandavan solraan. Arunachalam mudikkiraan.`。本編音声の発音照合ではなく、提示文字に基づく簡易表記 |
-
-冒頭の **அண்ணாமலை** と末尾の **விடுகதையா** は、このローマ字の二文には含まれていない。冒頭を後続の ஆண்டவன் に掛けて「アンナーマライの神」と読む可能性もあるが、独立した名前・呼びかけ・前後の発言との区切りも未確認。提供された一行を、全体が一続きの有名な決め台詞であると確定してはいない。
+本編音声の発音照合ではなく、提示されたタミル文字に基づく簡易表記。
 
 <details>
 <summary>出典と確認範囲</summary>
 
 | 項目 | 内容 |
 | --- | --- |
-| 採用原文 | 2026年10月17日のこのチャットでユーザーが提示したタミル文字の一行。本文の綴り・語順・引用範囲はそのまま保存 |
-| 提供された比較資料 | 同じ依頼の `Andavan solran. Arunachalam seiran`。ユーザーが転写の正否を質問したため、意味の異なる動詞と引用範囲を比較。大文字・長母音表記だけを理由に原文を改めていない |
-| 作品への帰属・掲載本文 | [Tamil Filmibeat：Crazy Mohan と Arunachalam の記事](https://tamil.filmibeat.com/news/actor-vishu-said-about-crazy-mohan-when-he-acted-in-arunachalam-153833.html)（2025年2月27日）の本文で、Arunachalam と中心の二文を確認。映画記事という非公式の二次資料。提供文の前後2語まで一続きで確認したものではない |
-| ローマ字の掲載例 | [NDTV／IANS：On Rajinikanth's 63rd birthday, dialogues popularised by him](https://www.ndtv.com/entertainment/on-rajinikanths-63rd-birthday-dialogues-popularised-by-him-615084)（2013年12月12日）の Arunachalam の項目を直接閲覧。`seiran` という掲載例と作品名を確認。本編の音声に対する正確な転写と保証する資料ではない |
-| 語義 | Agarathi の [ஆண்டவன்](https://agarathi.com/word/ஆண்டவன்) と [விடுகதை](https://agarathi.com/word/விடுகதை) は University of Madras Tamil Lexicon 本文、[சொல்](https://agarathi.com/word/சொல்)・[முடி](https://agarathi.com/word/முடி)・[செய்](https://agarathi.com/word/செய்) は Fabricius の動詞項目を直接閲覧。முடி は他動詞の finish／bring to an end の項目を使用。歴史辞書の語義と現代口語の形は区別 |
+| 採用原文 | 2026年10月17日のこのチャットでユーザーが提示した一行から、追加指示に従って中心の二文だけを抜粋。採用部分の綴り・語順を保存し、前後の語を省略 |
+| 作品への帰属・掲載本文 | [Tamil Filmibeat：Crazy Mohan と Arunachalam の記事](https://tamil.filmibeat.com/news/actor-vishu-said-about-crazy-mohan-when-he-acted-in-arunachalam-153833.html)（2025年2月27日）の本文で、Arunachalam と中心の二文を確認。映画記事という非公式の二次資料。本編音声での照合ではない |
+| 先行調査の参考資料 | [NDTV／IANS：On Rajinikanth's 63rd birthday, dialogues popularised by him](https://www.ndtv.com/entertainment/on-rajinikanths-63rd-birthday-dialogues-popularised-by-him-615084)（2013年12月12日）の Arunachalam の項目を前回直接閲覧。別表現の紹介記事であり、今回の本文の動詞や転写を変更する根拠には使わない |
+| 語義 | Agarathi の [ஆண்டவன்](https://agarathi.com/word/ஆண்டவன்) は University of Madras Tamil Lexicon 本文、[சொல்](https://agarathi.com/word/சொல்)・[முடி](https://agarathi.com/word/முடி) は Fabricius の動詞項目を直接閲覧。முடி は他動詞の finish／bring to an end の項目を使用。歴史辞書の語義と現代口語の形は区別 |
 | 口語の形 | [University of Chicago：Jim Raja Conversations 5, ஓட்டலுக்கு போறோம்](https://tamilcourse.uchicago.edu/node/23)、Pronunciation の சொல்லுறான்／சொல்றான் の説明を直接閲覧。母音が落ちる口語の現在形の対応を確認。映画の実際の発音を聞いたものではない |
-| 時制・人称・疑問 | Harold F. Schiffman, A Grammar of Spoken Tamil, [The Verb: Person-Number-Gender Agreement](https://ccat.sas.upenn.edu/plc/tamilweb/book/chapter3/node32.html) の検索保存本文で「時制要素の後に人称・数・性の語尾」という一般則を確認。直接取得は失敗。[akprasad：Tamil grammar](https://akprasad.github.io/tamil/grammar/) の Tense suffixes、Final suffixes、Other suffixes の直接本文で現在要素・男性単数 ஆன்・疑問 ஆ を補助確認 |
+| 時制・人称 | Harold F. Schiffman, A Grammar of Spoken Tamil, [The Verb: Person-Number-Gender Agreement](https://ccat.sas.upenn.edu/plc/tamilweb/book/chapter3/node32.html) の検索保存本文で「時制要素の後に人称・数・性の語尾」という一般則を確認。直接取得は失敗。[akprasad：Tamil grammar](https://akprasad.github.io/tamil/grammar/) の Tense suffixes、Final suffixes の直接本文で現在要素・男性単数 ஆன் を補助確認 |
 | 確認日・方法 | 2026年10月17日（日本時間）。提供文の読解、Webツールによる記事・辞書・教育資料の本文閲覧。Schiffman の節のみ検索保存本文 |
-| 本編の音声・字幕 | 未照合。使用版・時刻・話者・相手・前後の発言は未確定。提供文全体とローマ字のどちらが実際の一発言に一致するかは、この調査だけでは判定していない |
-| 分析の範囲 | 資料で確認した一般的語義・活用規則を提供文へ適用した学習用分析。「命じる」「俺がやり遂げる」という言い換えと前後語の接続は、文脈に関する解釈として本文・直訳と区別 |
+| 本編の音声・字幕 | 未照合。使用版・時刻・話者・相手・前後の発言は未確定。採用した二文を掲載記事で確認したことと、実際の発言を聞き取ることは区別 |
+| 分析の範囲 | 資料で確認した一般的語義・活用規則を提供文へ適用した学習用分析。「命じる」「俺がやり遂げる」という言い換えは、文脈に関する解釈として本文・直訳と区別 |
 
 </details>
 
